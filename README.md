@@ -5,10 +5,10 @@
 ### Sumário :pushpin:
 
 1. Descrição
-2. Consultas realizadas
-2.1.Nível Básico 
-2.2. Nível Intermediário 
-2.3. Nível Avançado
+2. Consultas realizadas   
+2.1.Nível Básico   
+2.2. Nível Intermediário  
+2.3. Nível Avançado  
 
  
 ---------------------------
